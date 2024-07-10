@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mayssa BEN JOUD<br>I am a graduate student in computer science specializing in software engineering and information systems and I am continuing the engineering cycle at ESPRIT, I am passionate about web development
+Hi 👋, I'm BEN JOUD Mayssa <br>I am a graduate student in computer science specializing in software engineering and information systems and I am continuing the engineering cycle at ESPRIT, I am passionate about web development
 
 
 ## 🌐 Socials:
