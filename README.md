@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mayssa BEN JOUD<br>I am a graduate student in computer science specializing in software<br>engineering and information systems and I am continuing the <br>engineering cycle at ESPRIT, I am  passionate about web development
+Hi 👋, I'm Mayssa BEN JOUD<br>I am a graduate student in computer science specializing in software engineering and information systems and I am continuing the engineering cycle at ESPRIT, I am  passionate about web development
 
 
 ## 🌐 Socials:
@@ -18,10 +18,5 @@ Hi 👋, I'm Mayssa BEN JOUD<br>I am a graduate student in computer science spec
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mayssabj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=mayssabj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
