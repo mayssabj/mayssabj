@@ -45,8 +45,8 @@ I am a graduate student in computer science specializing in software engineering
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayssabj&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayssabj&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mayssabj&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayssabj&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayssabj&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
