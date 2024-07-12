@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+<br>
 # 💫 About Me:
 Hi 👋, I'm BEN JOUD Mayssa <br>
 I am a graduate student in computer science specializing in software engineering and information systems. I am continuing the engineering cycle at ESPRIT and am passionate about web development.
