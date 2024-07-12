@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/4052adea05ff86d2363c8509099905444637394b603a684f544b5d89d344f362/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966"  />
-</div>
-<br>
+
+
 # 💫 About Me:
 Hi 👋, I'm BEN JOUD Mayssa <br>
 I am a graduate student in computer science specializing in software engineering and information systems. I am continuing the engineering cycle at ESPRIT and am passionate about web development.
