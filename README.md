@@ -59,3 +59,19 @@ I am a graduate student in computer science specializing in software engineering
 
 [![](https://visitcount.itsvg.in/api?id=mayssabj&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<style>
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .animated-logo {
+    animation: rotate 20s linear infinite;
+  }
+</style>
+<img src="your-logo-url.png" class="animated-logo">
+
+
