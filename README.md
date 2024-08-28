@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Mayssa BEN JOUD, a graduate student in Computer Science, specializing in Software Engineering and Information Systems. Currently, I'm advancing my studies in the engineering cycle at ESPRIT, with a focus on Cloud Computing. I'm passionate about DevOps and always eager to learn new technologies.
 
-<div align="center"> <img  src="https://user.oc-static.com/upload/2021/02/10/16129491527251_Gif111.gif" /> </div>
+<div align="center"> <img  src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" /> </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayssa-ben-joud-89b22722b/) 
