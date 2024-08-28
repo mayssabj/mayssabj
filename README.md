@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Welcome to my GitHub profile! I am Mayssa BEN JOUD<br>I am a graduate student in computer science specializing in software engineering and information systems. I am continuing the engineering cycle at ESPRIT specializing in Cloud Computer and I'am passionate about Devops .<br>
 <div align="center">
-  <img height="200" src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-92052.jpg?w=1060"  />
+  <img height="200" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif"  />
 </div>
 <br>
 
