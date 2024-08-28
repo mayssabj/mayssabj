@@ -1,9 +1,7 @@
 # 💫 About Me:
-👋 Welcome to my GitHub profile! I am Mayssa BEN JOUD<br>I am a graduate student in computer science specializing in software engineering and information systems. I am continuing the engineering cycle at ESPRIT specializing in Cloud Computer and I'am passionate about Devops .<br>
-<div align="center">
-  <img height="550 weight="550" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsb2ZmaWNlMjFfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfdXNpbl9mODQxZmI0Ni1jZjA0LTQxNzMtODk2ZS02NWE4OTZjOTRhYmYuanBn.jpg"  />
-</div>
-<br>
+👋 Hi there! I'm Mayssa BEN JOUD, a graduate student in Computer Science, specializing in Software Engineering and Information Systems. Currently, I'm advancing my studies in the engineering cycle at ESPRIT, with a focus on Cloud Computing. I'm passionate about DevOps and always eager to learn new technologies.
+
+<div align="center"> <img height="300" width="550" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsb2ZmaWNlMjFfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfdXNpbl9mODQxZmI0Ni1jZjA0LTQxNzMtODk2ZS02NWE4OTZjOTRhYmYuanBn.jpg" /> </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayssa-ben-joud-89b22722b/) 
